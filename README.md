@@ -1,1 +1,1 @@
-Projeto básico de exemplo para estudos! Associação em Java
+Projeto básico de exemplo para estudo! Associação em Java
